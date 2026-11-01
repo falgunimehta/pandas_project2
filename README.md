@@ -6,6 +6,8 @@ Tools used:
 
 Python
 
+Pandas
+
 VS Code
 
 Jupyter Notebook
